@@ -1,0 +1,54 @@
+
+
+body {
+	background-color: #7FFFD4; 
+	border: 10px dotted yellow;
+}
+
+h1   {
+	color: blue;
+}
+
+h1:hover   {
+	color: orange;
+}
+
+img:hover {
+	background-size: 300%
+}
+
+p    {
+	color: red;
+}
+
+a:link {
+    color: black;
+    font-size: 30px;
+}
+
+
+a:hover { 
+    font-size: 300%
+}
+
+/* 
+img {
+	padding-bottom: 10%
+}
+*/
+
+
+
+
+/* 
+img.resize {
+   width:200px;
+   height:40px;
+}
+*/
+
+doge {
+
+}
+
+

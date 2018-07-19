@@ -1,0 +1,44 @@
+####### Mirror the current site [hosted on GoDaddy]
+
+- open Terminal
+
+httrack
+
+- At prompts:
+	- Enter project name:
+	rebeccal
+
+	- Enter URLs (separated by commas or blank spaces) :
+	http://www.rebeccal.com
+
+	- Action
+	4
+
+# This will mirror the entire site (all pages, images, etc., not just index.html)
+# Files will be saved to /Users/amanda/websites/
+
+- Move files to Applications > MAMP > htdocs > rleder
+
+
+
+
+
+###### Open MAMP application
+
+- Applications > MAMP 
+
+- Left sidebar: turn Appache on
+
+
+
+
+
+
+
+######## Browser
+
+- http://localhost:8888/rleder/
+
+# if any of the link tags are pointing at index-2.html change them to index.html
+
+
